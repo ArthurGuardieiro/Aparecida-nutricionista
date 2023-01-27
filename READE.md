@@ -1,5 +1,5 @@
 <h1>Aparecida Nutrição</h1>
-> O site de aparecida nutrição foi desenvolvido à partir de um curso feito na alura.
+>O site de aparecida nutrição foi desenvolvido à partir de um curso feito na alura.
 
 ## 🔨 Funcionalidades do projeto
 `Funcionalidade 1`: Cálculo do IMC dos pacientes de forma dinâmica
